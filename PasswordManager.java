@@ -6,7 +6,7 @@ import java.security.NoSuchAlgorithmException;
  *
  * @author kausik ayinala
  */
-public class Main {
+public class PasswordManager {
     
     public static void main(String args[]) throws NoSuchAlgorithmException{
         String CommonPassword = "";
